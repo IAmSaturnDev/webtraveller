@@ -1,0 +1,11 @@
+h1.helloHeading {
+    text-align: center;
+    color: rebeccapurple;
+    text-decoration: underline;
+}
+
+h1.poop {
+    text-align: center;
+    text-decoration: wavy;
+    color: fuchsia;
+}
